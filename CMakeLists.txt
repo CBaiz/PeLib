@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 2.8)
 set(LIBRARY_NAME_STR PeLib)
 
 aux_source_directory(source SRCS)
